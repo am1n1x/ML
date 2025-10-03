@@ -7,6 +7,7 @@ from tqdm import tqdm
 import time
 import math
 
+
 # Параметры задачи
 FILE_PATH = 'products_with_prices_short.csv'
 K_PRODUCTS = 4  # Количество продуктов в рационе (k)
